@@ -1,0 +1,4 @@
+*.log
+/dir/
+satatic/dir
+db.accdb
